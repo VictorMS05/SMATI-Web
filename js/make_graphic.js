@@ -18,10 +18,10 @@ function crearGrafico(labels, values) {
     data: {
       labels: labels,
       datasets: [{
-        label: 'Nivel del cauce',
+        label: 'Nivel',
         data: values,
-        backgroundColor: 'rgba(75, 192, 192, 0.2)',
-        borderColor: 'rgba(75, 192, 192, 1)',
+        backgroundColor: 'rgba(0, 148, 211, 0.5)',
+        borderColor: 'rgba(0, 148, 211, 1)',
         borderWidth: 1
       }]
     },
