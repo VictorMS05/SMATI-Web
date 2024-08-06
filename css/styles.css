@@ -1,0 +1,55 @@
+/** <------------------------- General -------------------------> */
+
+body {
+    font-family: Intro;
+    margin: 0;
+    padding: 0;
+}
+
+/** <------------------------- Nav -------------------------> */
+
+nav {
+    background-color: #111;
+    color: #eee;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    padding: 2.5vh 5vw;
+    text-align: center;
+}
+
+nav img {
+    width: 10vw;
+}
+
+nav ul {
+    display: flex;
+    cursor: pointer;
+    gap: 2vw;
+    list-style-type: none;
+    padding: 0;
+}
+
+/** <------------------------- Main -------------------------> */
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/*? <---------- Warning ----------> */
+
+
+
+/*? <---------- Home ----------> */
+
+
+
+/*? <---------- History ----------> */
+
+
+
+/** <------------------------- Footer -------------------------> */
+
